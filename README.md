@@ -9,11 +9,11 @@ https://developers.google.com/machine-learning/guides/text-classification/step-2
 # Installation
 python3 is required
 
-    `pip3 install -r requirements.txt`
+    pip3 install -r requirements.txt
 
 # Train model
 
-    `python3 train_model.py`
+    python3 train_model.py
 
 After finished, The model will be stored in `./model/MyModel.h5`
 
@@ -27,12 +27,12 @@ Read more: https://developers.google.com/machine-learning/guides/text-classifica
 
 View `predict.py` file
 
-    `python3 predict.py`
+    python3 predict.py
 
 # Run HTTP Server
-    `cd ./http-server`
+    cd ./http-server
 
-    `FLASK_APP=main.py flask run`
+    FLASK_APP=main.py flask run
 
     cd react-client
 
