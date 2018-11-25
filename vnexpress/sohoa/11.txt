@@ -1,6 +1,0 @@
-Một số dịch vụ của Apple 'sập' trong hơn 30 phút
-Nhiều người dùng không thể truy cập được vào App Store, Apple Music và Apple Pay trong khoảng nửa tiếng.
-Theo Business Insider, khi mở các dịch vụ trên, người dùng sẽ nhận được thông báo không thể kết nối cùng màn hình trắng trơn. Việc phát nhạc được lưu trữ trên iTunes cũng không thành công.
-Trang hỗ trợ của Apple ghi nhận vấn đề xảy ra từ 8h20 đến 8h52 ngày 21/11 (giờ Hà Nội) với App Store cho iOS và cho Mac, Apple Music và Apple Pay. Hiện sự cố đã được khắc phục nhưng Apple chưa lên tiếng giải thích.
-Hồi tháng 2/2017, các dịch vụ iTunes, App Store và Apple Music cũng không thể truy cập được, hoặc hoạt động với tốc độ rất chậm.
-Không chỉ Apple mà Facebook và Microsoft cũng gặp vấn đề tương tự. Chỉ trong một tuần, Facebook đã hai lần bị "sập" vào ngày 18/11 và 20/11. Trong khi đó, các dịch vụ Azure, Office 365 của Microsoft hôm 19/11 cũng bị gián đoạn, hoạt động chập chờn trong hơn 6 giờ.
