@@ -23,8 +23,3 @@ new_model = models.load_model('./model/MyModel.h5')
 a = new_model.predict(x_val)
 
 print(a)
-
-# if a[0] < 0.5:
-#     print('sohoa')
-# else:
-#     print('thethao')
