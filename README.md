@@ -29,6 +29,10 @@ View `predict.py` file
 
     python3 predict.py
 
+
+The result will be look like: [[0.0050260744 0.99930882 0.0016016784 0.000028327899]]
+
+
 # Run HTTP Server
     cd ./http-server
 
