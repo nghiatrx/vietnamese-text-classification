@@ -32,6 +32,7 @@ View `predict.py` file
 
 The result will be look like: [[0.0050260744 0.99930882 0.0016016784 0.000028327899]]
 
+It means 99.9% that it is in class 1. Currently, we have 4 classes. class 0: congnghe (tech), class 1: suckhoe (health), class 2: thethao (sport), class 3: xe (car & motor)
 
 # Run HTTP Server
     cd ./http-server
