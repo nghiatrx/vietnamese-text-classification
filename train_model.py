@@ -10,7 +10,7 @@ data = load_data.load(
     classes={'congnghe': 0, 'suckhoe': 1, 'thethao': 2, 'xe': 3}, 
     seed=random.randint(1, 1000))
 
-train_percent = 0.82 # 82%
+train_percent = 0.82 # use 82% data to train and 18% to validate
 number_samples_train = int(len(data[0]) * 0.82)
 
 (data_train, labels_train) , (data_test, labels_test) = (data[0][0:number_samples_train], data[1][0:number_samples_train]), (data[0][number_samples_train:], data[1][number_samples_train:])
