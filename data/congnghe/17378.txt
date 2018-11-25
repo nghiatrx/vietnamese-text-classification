@@ -1,0 +1,1 @@
+Bảo mật dữ liệu trực tuyến: Ai chịu trách nhiệm? Một số doanh nghiệp cho rằng một khi họ lựa chọn lưu trữ dữ liệu trên các máy chủ thuê bên ngoài thay vì của riêng mình, họ sẽ không còn phải để ý đến việc bảo vệ thông tin đó. Liệu nhận định này có chính xác?

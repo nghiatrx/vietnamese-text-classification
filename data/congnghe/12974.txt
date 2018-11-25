@@ -1,0 +1,1 @@
+Dịch vụ web của Amazon vừa gặp sự cố, hàng loạt website lớn ngừng hoạt động Cách đây ít lâu, hàng loạt dịch vụ như Netflix, SocialFlow, Pocket,... tại Mỹ đã gián đoạn do sử dụng Amazon Web Serivices.Cách đây một tiếng, dịch vụ  Đây không phải là lần đầu tiên Bạn đọc có thể theo dõi tình trạng của Amazon Web Services

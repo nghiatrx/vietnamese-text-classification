@@ -1,0 +1,1 @@
+Thử tài đoán tên xe qua đèn pha và đèn hậu Chỉ qua đèn pha hoặc đèn hậu, một tín đồ mê xe có thể dễ dàng nhận biết đây là mẫu xe nào.Trong triết lý thiết kế của mỗi hãng xe, hệ thống đèn với đèn pha và đèn hậu là một đặc điểm quan trọng để nhận diện. Độc giả thử tài đoán tên xe qua các dải đèn sau đây với gợi ý đi kèm.

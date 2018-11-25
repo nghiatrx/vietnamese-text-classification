@@ -1,0 +1,1 @@
+Hỗ trợ giữ phanh tự động - tính năng giúp tài xế thư giãn Khi ấn nút Brake Hold, tài xế có thể nhả chân ga mà xe vẫn đứng yên, giúp thư giãn khi di chuyển trên phố đông.

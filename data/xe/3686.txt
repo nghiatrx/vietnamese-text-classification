@@ -1,0 +1,1 @@
+Vạch kẻ đường màu vàng và màu trắng khác nhau thế nào? Tôi thấy vạch phân cách trên đường khi màu vàng, khi màu trắng đôi khi xuất hiện cả hai vạch (Lan Anh).Xin hỏi sự giốngvà khác nhau và trường hợp gặp cả hai vạch thì nên đi thế nào cho đúng?

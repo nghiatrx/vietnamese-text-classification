@@ -1,0 +1,1 @@
+Vòng tua không ổn định ở chế độ không tải? Ở chế độ chạy không tải, khi mới khởi động buổi sáng, số vòng quay ban đầu lớn để nhanh làm nóng máy sau đó tự động về ở vòng tua thấp hơn (Kim Quyên).

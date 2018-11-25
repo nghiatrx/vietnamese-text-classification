@@ -1,0 +1,10 @@
+Công cụ đo thời gian lãng phí trên Facebook
+Facebook tích hợp tính năng cho người dùng biết họ đã dành bao nhiêu thời gian để truy cập mạng xã hội mỗi ngày.
+Sau gần nửa năm thử nghiệm, Facebook đã triển khai công cụ "Your Time on Facebook" để các thành viên có thể theo dõi và quản lý thời gian sử dụng. Nó được thiết kế với các biểu đồ cột, cho biết bạn đã "ngốn" bao nhiêu phút để mở ứng dụng Facebook trên di động mỗi ngày.
+Facebook cũng cho phép thiết lập giới hạn thời gian sử dụng mỗi ngày. Khi tới hạn mức, chương trình sẽ hiện thông báo nhắc nhở. Bên cạnh đó, tính năng hỗ trợ quản lý bảng tin để người dùng xem được cập nhật từ bạn bè, người thân thay vì lãng phí thời gian cho nhiều thông tin khác.
+
+Để sử dụng, người dùng vào Settings & Privacy và tìm mục Your Time on Facebook. Trước đó, ứng dụng Instagram (thuộc Facebook) cũng được bổ sung tính năng tương tự.
+
+Trang TNW đánh giá "Your Time on Facebook" mang lại những điều tích cực song vẫn còn hạn chế. Nó chưa phân tích chính xác thời gian người dùng online trên Facebook và không hỗ trợ chặn các phần cụ thể mà các thành viên hay "nghiện".
+
+"Nếu bạn muốn giảm thời gian lãng phí trên mạng, chúng tôi khuyên bạn hãy xem trang tổng quan trên để biết mình dành bao nhiêu giờ cho nó. Sau đó hãy tìm một hoạt động khác có lợi cho sức khỏe, chẳng hạn chạy bộ, chơi thể thao, học nhạc cụ... để lấp vào khoảng thời gian cho Facebook", TNW viết.

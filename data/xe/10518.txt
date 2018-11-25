@@ -1,0 +1,1 @@
+Với i-Stop đỗ đèn đỏ nên về N hay D? Có nên về số N khi dừng đèn đỏ hay không, vì khi dừng ở số D và đạp phanh thì tính năng i-stop (tính năng tiết kiệm xăng, dừng đèn đỏ) mới hoạt động (Nguyễn Giang)Còn nếu về số N và đạp phanh chờ đèn đỏ thì tính năng I- stop không hoạt động. Ngoài ra, tính năng khi lái (D) nếu chuyển sang M và + là chức năng gì.

@@ -1,0 +1,1 @@
+Câu đố đơn giản kiểm tra trí não của bạn Nhiệm vụ của bạn là đếm số chữ F có trong một đoạn text đặc biệt, sau đó đối chiếu với kết quả. Phần lớn mọi người không hoàn thành được thử nghiệm này.Thử nghiệm của

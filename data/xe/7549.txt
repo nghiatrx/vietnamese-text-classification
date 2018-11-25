@@ -1,0 +1,1 @@
+Khắc phục lỗi chức năng 'idling stop' trên PCX? Tôi sử dụng xe PCX nhập khẩu được khoảng 5 năm. Hiện, chức năng "idling stop" bị lỗi (xe dừng quá 3 giây nhưng không tắt máy) (Thành Long).Xin hỏi nguyên nhân và các khắc phục.

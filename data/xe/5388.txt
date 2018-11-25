@@ -1,0 +1,1 @@
+Vạch kẻ giữa đường có được coi là dải phân cách? Tốc độ ôtô được tăng thêm 10 km/h, trong đó phụ thuộc vào đường có dải phân cách và đường không có dải phân cách (Vũ Văn Minh).Xin hỏi, vạch kẻ giữa đường phân chia hai bên mặt đường thành hai chiểu xe riêng biệt có được coi là dải phân cách?

@@ -1,0 +1,17 @@
+Những tính năng mới của Notepad trên Windows 10
+Sau khá lâu kể từ lúc ra mắt, Notepad giờ đây đã được cải tiến và thêm vào một số tính năng nhằm giúp cho nó trở nên hữu dụng hơn đối với người dùng. Sau đây mời anh em cùng mình điểm qua một số thay đổi chính đã được Microsoft cập nhật gần đây nhé.
+Zoom In - Out:
+Nếu như trước đây, việc hiển thị kích thước chữ to hơn chỉ có thể làm bằng cách tăng font size của chữ lên trong Notepad, thì hiện tại, Notepad đã hỗ trợ tính năng zoom in và zoom out, cho phép anh em có thể phóng to và thu nhỏ kích cỡ hiển thị của nội dung mà không cần làm thay đổi font size.
+Anh em cũng có thể Zoom in và Zoom out với tổ hợp phím Ctrl + "+" và Ctrl + "-" hoặc sunf1 cuộn chuột và phím Ctrl , ngoài ra để trở về chế độ hiển thị mặc định, anh em có thể sử dụng Ctrl + "0"
+Wrap Around, Find and Replace, và Search AutoFill
+Lúc trước, khi anh em sử dụng notepad và bắt đầu search một từ khóa nào đó trong một đoạn văn bản thì anh em phải để con trỏ chuột vào đầu văn bản, nếu anh em để chuột ở giữa, nó sẽ chỉ bắt đầu tìm từ vị trí con trỏ cho tới cuối. Giờ đây, Microsoft đã thêm vào tính năng Wrap Around cho phép anh em có thể tìm một hoặc nhiều từ khóa trong toàn bộ file bất chấp việc con trỏ đang nằm ở đâu.
+Để dễ hình dung, mình đã screenshot lại sự khác nhau của 2 phiên bản như sau:
+Đối với bản cũ 1803: mình search bằng từ khóa "Android" và để con trỏ chuột ở phần tô màu và kết quả là Notepad không thể tìm thấy từ khóa đó.
+Ngoài ra, Microsoft cũng cố gắng tối ưu trải nghiệm tìm kiếm bằng cách thêm vào tính năng Search Autofill, tính năng này cho phép anh em tìm kiếm nhanh một từ khóa bằng cách bôi đen từ khóa đó và bấm Ctrl + F. Lúc đó từ khóa sẽ tự động được điền vào 
+Hỗ trợ định dạng text của Linux và search từ khóa trực tiếp bằng Bing:
+Lúc trước với phiên bản cũ, Notepad chỉ hỗ trợ duy nhất định dạng Windows Carriage Return (CR) hoặc Line Feed (LF) (CRLF) nên khi anh em mở các file được tạo ra trên các nền tãng Unix, Linux, hay Mac, các dòng sẽ hiển thị không đúng so với file gốc. Anh em bắt buộc phải mở nó ra bằng Wordpad và save lại sau đó mới mở lại được bằng Notepad.
+Tuy nhiên, giờ đây Notepad đã hỗ trợ thêm định dạng Unix and Linux (LF) và Mac (CR) nhờ đó các file được tạo ra từ những hệ điều hành khác sẽ được hiển thị đúng khi mở bằng notepad.
+Shortcut xóa chữ vừa gõ, shortcut di chuyển nhanh con trỏ:
+Microsoft đã thêm vào tổ hợp phím tắt là Ctrl + Backspace để anh em có thể xóa nhanh từ vừa gõ hoặc nếu anh em cần di chuyển nhanh trong văn bản, anh em sử dụng Ctrl + mũi tên trái phải, lúc đó con trỏ chuột sẽ nhảy từng từ.
+Cải thiện hiệu năng khi mở các file lớn:
+Nếu anh em thường xuyên làm việc với các file text lớn và dùng Notepad, thì anh em sẽ vui vì Microsoft đã hứa sẽ hỗ trợ hiệu năng của Notepad tốt hơn khi làm việc với các file lớn. Nhưng theo mình thì Notepad còn lâu mới có thể hỗ trợ việc mở file lớn tốt như là Notepad++ được.

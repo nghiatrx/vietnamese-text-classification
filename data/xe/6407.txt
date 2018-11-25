@@ -1,0 +1,1 @@
+Về số N khi xe đang chạy có hại gì không? Xe số tự động, khi xuống dốc (cầu), tôi hay đưa cần số về vị trí N (Tiến Dũng).Quan sát bảng đồng hồ nếu để máy nổ và cần số ở vị trí N, vòng tua từ 2.000 vòng/phút xuống còn 800 vòng/phút, xin hỏi có ảnh hưởng gì đến máy không.
