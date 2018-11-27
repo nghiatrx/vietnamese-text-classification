@@ -1,1 +1,0 @@
-Microsoft triển khai gói dịch vụ Office 365 cho giáo dục Microsoft đã phát hành phiên bản Office online 365 mới. Phiên bản này tập phát triển chủ yếu đề nhắm đến đối tượng các học viện,trường học. Office 365 sẽ thay thế dịch vụ Live@Edu trước đây của Microsoft

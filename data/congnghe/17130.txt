@@ -1,1 +1,0 @@
-SohaPay tích hợp phương thức thanh toán thứ 25 Công cụ thanh toán điện tử SohaPay vừa tích hợp thêm hình thức thanh toán mới bằng thẻ FPT Gate – nâng tổng số phương thức thanh toán của cổng này lên con số 25, đứng đầu thị trường cổng thanh toán hiện nay về phương thức thanh toán.

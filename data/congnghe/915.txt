@@ -1,1 +1,0 @@
-Không gửi được mail với Microsoft Outlook Mỗi lần tôi gửi New Email từ Microsoft Outlook thì bị báo nội dung không gửi được tới địa chỉ cần thiết.Thông báo cụ thể như sau: -Your message did not reach some or all of the intended recipients. Tôi không biết là hòm mail bị làm sao. Xin chỉ giúp.

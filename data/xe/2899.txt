@@ -1,1 +1,0 @@
-Đường kẻ vạch đứt - xe máy có được lấn làn? Trên làn đường một chiều có 3 làn xe và có biển báo dành cho từng loại xe (Lê Minh).Theo hướng dẫn xe máy đi ở làn đường thứ 3 bên phải, xin hỏi trường hợp vạch kẻ đường ngắt quãng, xe máy có được phép vượt lấn làn xe tải?

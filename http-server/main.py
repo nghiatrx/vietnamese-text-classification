@@ -23,5 +23,17 @@ def main():
 
     return jsonify({
         'result': result[0].tolist(),
-        'classes': ['Congnghe (Tech)', 'Suckhoe (Health)', 'Thethao (Sport)', 'Xe (Car & motor)']
+        'classes': [
+            'Cong-nghe (tech)', 
+            'Suc-khoe (health)', 
+            'The-thao (sport)', 
+            'Xe (Car & motor)',
+            'Am-nhac (music)',
+            'Du-lich (travel)',
+            'Giao-duc (education)',
+            'Kinh-doanh (law)',
+            'Phim (Movie)',
+            'Thoi-su (News)',
+            'Thoi-trang (Fashion)'
+        ]
     })

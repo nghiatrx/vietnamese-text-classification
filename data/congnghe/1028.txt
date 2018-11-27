@@ -1,1 +1,0 @@
-Robot thu hoạch ớt ngọt tự động Sweeper Robot tự nhận diện vị trí các quả đang có trên cây và tự động thu hoạch các quả chín.Video:

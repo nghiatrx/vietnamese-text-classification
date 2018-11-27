@@ -1,1 +1,0 @@
-Dropbox chặn startup Boxopus của BitTorrent vì vấn đề bản quyền Dropbox đã ngăn không cho Boxopus truy cập vào các API của mình. Công ty lo sợ những vấn đề về bản quyền của BitTorrent sẽ ảnh hưởng đến danh tiếng của dịch vụ lưu trữ đám mây này.

@@ -1,9 +1,0 @@
-Những thứ bạn cần làm khi điện thoại Android không mở lên được
-Điện thoại Android của bạn không chạy lên? Khoan hãy hoảng sợ, bạn hãy thử làm theo một số cách trong bài này trước đã, sau đó mà không được nữa thì hãy hoảng
-Điện thoại Android của bạn không chạy lên? Khoan hãy hoảng sợ, bạn hãy thử làm theo một số cách trong bài này trước đã, sau đó mà không được nữa thì hãy hoảng :D
-Bạn có sạc pin đủ chưa?
-Rất rất nhiều lần điện thoại của bạn đang chạy mà tắt, hoặc bạn cầm máy lên nhưng không có động đậy gì thì khả năng cao là hết pin thôi chứ không gì cả. Nếu máy của bạn cạn pin quá nhiều và để lâu không sạc thì thời gian cần nạp đủ điện để máy chạy lên được cũng khá lâu nên cứ kiên nhẫn chờ đợi nhé.
-Nhớ kiểm tra dây và cáp sạc vẫn còn chạy tốt hay không nhé, vì có nhiều bạn hỏi mình về trường hợp máy không chạy lên để rồi cuối cục phát hiện cáp hoặc sạc hư nên không nạp điện vào được, để qua đêm thì máy cạn sạch pin.
-Nếu bạn đã chắc chắn rằng máy mình đã đầy pin / pin vẫn còn nhưng điện thoại vẫn không chạy lên thì thử nhấn giữ phím nguồn trong khoảng 10 giây đến 30 giây xem sao. Đa số các hãng sản xuất smartphone Android có tích hợp chức năng Hot Restart cho nút nguồn của mình. Cách này cũng sẽ giải quyết được đa số trường hợp điện thoại không chạy lên.
-Kỉ niệm này hồi còn xài con Motorola Milestone mà mình nhớ mãi tới giờ: máy không hư, pin không cạn, lại đang cắm sạc, thậm chí có lên đèn đỏ báo điện vào nhưng máy vẫn mãi không chịu khởi động. Hóa ra là do màn hình. Mình biết điều này nhờ sử dụng một điện thoại khác gọi vào số của mình, máy vẫn reng rung bình thường nhưng màn hình không sáng. Sau đấy đem ra bảo hành thì mới phát hiện lỗi phần cứng.
-Nếu bạn không có điện thoại khác để gọi vào, bạn có thể dùng tính năng Find My Phone để đổ chung cũng được. Miễn là phát ra tiếng để bạn kiểm tra là ok. Bạn có thể tham khảo cách xài Find My Phone trong bài này.

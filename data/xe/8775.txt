@@ -1,1 +1,0 @@
-Tốc độ tối đa của xe trên 100 phân khối là bao nhiêu? Tốc độ cho phép của xe máy (100 phân khối trở lên) trong và ngoài thành phố là bao nhiêu. (Hồ Phúc)Tôi chưa hiểu về định nghĩa xe gắn máy, xin hỏi xe dưới 50 phân khối là xe gắn máy còn trên 50 phân khối là xe môtô như vậy có đúng không?

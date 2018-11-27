@@ -1,1 +1,0 @@
-Dán tem tự động thu phí ô tô như thế nào? Nhằm triển khai thu phí tự động tại các BOT, bộ GTVT sẽ triển khai dán tem cho tất cả các xe ô tô. (Theo VTC News)

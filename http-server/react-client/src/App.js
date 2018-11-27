@@ -21,10 +21,15 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <div style={{fontSize: '19px'}}>
-            Vietnamese text classification, Currently only 4 classes are trained: Congnghe (Tech), Suckhoe (Health), Thethao (Sport), Xe (Car & motor) <br />
-            You can copy the articles from vnexpress.net, news.zing.vn, dantri.com.vn and paste it here
+            Vietnamese text classification, you can copy the articles from vnexpress.net, news.zing.vn, dantri.com.vn and paste it here
           </div>
 
+          {
+            this.state.classes.length > 0 && (
+              <p>Total Classes { this.state.classes.length }</p>
+            )
+          }
+        
           <div>
             <a style={{color: '#fff'}} href='https://github.com/nghiatrx/vietnamese-text-classification/'>
               Github
@@ -92,7 +97,6 @@ class App extends Component {
             )
           }
           
-
           <div>
             <ul className='result'>
               {

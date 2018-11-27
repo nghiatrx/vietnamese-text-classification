@@ -1,1 +1,0 @@
-Phát hiện lỗ hổng zero-day trên trình duyệt Internet Explorer Tin tặc có thể chiếm quyền kiểm soát máy tính sau khi người dùng sử dụng trình duyệt này để tải về một tập Office có mã độc.IE là trình duyệt web gắn liền cùng với hệ điều hành Windows từ năm 1995.

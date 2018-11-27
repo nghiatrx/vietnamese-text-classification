@@ -1,1 +1,0 @@
-Acer triển khai dịch vụ lưu trữ điện toán đám mây - AcerCloud cho khách hàng của mình Cải thiện dịch vụ của mình.

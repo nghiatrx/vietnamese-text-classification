@@ -1,1 +1,0 @@
-Bkav ra mắt hệ thống an ninh ứng dụng AI cho ngôi nhà Hệ thống an ninh của Bkav có thể phân biệt người nhà hay người lạ, học thói quen sinh hoạt của chủ nhân, điều chỉnh chế độ theo ngữ cảnh.Thuận tiện khi lắp đặt hệ thống Smarthome với các thiết bị nhỏ gọn.      Hệ thống có khả năng nhận diện và phát cảnh báo khi có người lạ đột nhập.

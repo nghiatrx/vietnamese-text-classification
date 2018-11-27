@@ -1,1 +1,0 @@
-Lỗ hổng khiến mật khẩu iPhone có thể bị phá dễ dàng Phương thức tấn công mới có thể dò ra mật khẩu Passcode dạng 4 chữ số của iOS chỉ trong nửa ngày.Tuy nhiên, Cách thức tấn công và dò ra mật khẩu của Người dùng có thể thay đổi mật khẩu Passcode 4 hoặc 6 chữ số dạng mật khẩu dài hơn và cấu tạo cả chữ cái, chữ số để tăng độ an toàn bảo mật của iOS.
