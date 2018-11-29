@@ -5,7 +5,6 @@ import tensorflow as tf
 import pickle
 
 vectorizer = pickle.load(open("./model/vectorizer.pickle", "rb"))
-selector = pickle.load(open("./model/selector.pickle", "rb"))
 new_model = models.load_model('./model/MyModel.h5')
 graph = tf.get_default_graph()
 
@@ -16,7 +15,6 @@ CORS(app)
 def main():
     data = json.loads(request.data)
     x_val = vectorizer.transform([data['content']])
-    x_val = selector.transform(x_val).astype('float32')
 
     with graph.as_default():
         result = new_model.predict(x_val)
@@ -31,7 +29,8 @@ def main():
             'Am-nhac (music)',
             'Du-lich (travel)',
             'Giao-duc (education)',
-            'Kinh-doanh (law)',
+            'Kinh-doanh (business)',
+            'Phap-luat (law)'
             'Phim (Movie)',
             'Thoi-su (News)',
             'Thoi-trang (Fashion)'

@@ -7,19 +7,25 @@ from tensorflow.python.keras import models
 import pickle
 
 vectorizer = pickle.load(open("./model/vectorizer.pickle", "rb"))
-selector = pickle.load(open("./model/selector.pickle", "rb"))
 
-text = """TP.HCM cảnh báo ngộ độc thực phẩm do vi khẩn tụ cầu vàng
-        'Thực phẩm giàu chất đạm, chất béo, thực phẩm có hàm lượng nước cao, nhiều tinh bột và nhiệt độ bảo quản thực phẩm không đảm bảo dễ bị nhiễm tụ cầu vàng.
-        Ngày 23.11, Ban Quản lý An toàn thực phẩm (ATTP) TP.HCM đã có cảnh báo về tình trạng ngộ độc thực phẩm (NĐTP) trên địa bàn TP, đặc biệt là ngộ độc do vi sinh vật, trong đó có vi khuẩn tụ cầu vàng.
-        Theo thống kê của Ban Quản lý ATTP, từ năm 2010 đến tháng 11.2018, trên địa bàn TP đã xảy ra 54 vụ NĐTP. Trong đó, ngộ độc do thực phẩm bị nhiễm vi sinh vật là 33 vụ (chiếm 61%), do độc tố 14 vụ (chiếm 26%), do hóa chất 2 vụ (chiếm 4%), không xác định được nguyên nhân 2 vụ (4%). Trong số vụ NĐTP do vi sinh vật, ngộ độc do tụ cầu vàng (Staphylococcus aureus) 14 vụ (chiếm 42%)."""
+text = """
+ 'Trâu cày' tiền ảo bị cân bán như sắt vụn ở Trung Quốc
+Hàng nghìn thiết bị được bán tháo với giá rẻ hoặc xử lý tái chế như những sản phẩm điện tử phế liệu.
+
+Những ngày qua, giá tiền ảo Bitcoin đã sụt mạnh, có lúc thấp hơn mốc 4.000 USD một đồng, khiến cộng đồng những người tham gia cuộc chơi tiền ảo điêu đứng.
+ Theo ZOL, tại Trung Quốc, nơi chiếm tới 70% lượng tiền ảo được đào trên toàn cầu, rất nhiều nhà đầu tư phải bán tháo máy móc và thiết bị với mong muốn rút chân khỏi "vũng lầy" càng nhanh càng tốt. Một số người thậm chí đối xử với các cỗ máy đào tiền ảo từng có giá nghìn USD như rác thải, phế liệu.
+
+Trước đây, những thiết bị này có giá hơn 20.000 nhân dân tệ (gần 3.000 USD) một chiếc. Nay chúng được chào mời với giá chỉ 1.500 nhân dân tệ (khoảng 200 USD), thậm chí thấp hơn, mà cũng không có người mua.
+ Chia sẻ trên mạng xã hội Weibo và các diễn đàn tiền ảo, nhiều chủ mỏ đăng ảnh thu gom dọn dẹp "trâu cày" của mình, xếp chúng thành từng đống để chờ người tới xử lý.
+
+Nhiều chủ mỏ đã coi chúng như phế liệu, tháo rời ra để giữ lại những linh kiện dùng được, còn lại đem cân bán như sắt vụn, nhằm thu hồi chút tiền vốn hoặc trang trải phần nào các chi phí hoặc khoản nợ.
+"""
 
 
 x_val = vectorizer.transform([text])
-x_val = selector.transform(x_val).astype('float32')
 
 new_model = models.load_model('./model/MyModel.h5')
 
 a = new_model.predict(x_val)
 
-print(a)
+print(a[0])

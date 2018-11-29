@@ -50,6 +50,7 @@ def mlp_model(layers, units, dropout_rate, input_shape, num_classes):
 
 
 def train_ngram_model(data,
+                      num_classes,
                       learning_rate=1e-3,
                       epochs=1000,
                       batch_size=128,
@@ -75,7 +76,6 @@ def train_ngram_model(data,
     (train_texts, train_labels), (val_texts, val_labels) = data
 
     # Verify that validation labels are in the same range as training labels.
-    num_classes = explore_data.get_num_classes(train_labels)
     unexpected_labels = [v for v in val_labels if v not in range(num_classes)]
     if len(unexpected_labels):
         raise ValueError('Unexpected label values found in the validation set:'
