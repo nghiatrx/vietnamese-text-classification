@@ -1,7 +1,5 @@
 # vietnamese-text-classification
 
-Demo: http://45.77.173.11:8080
-
 Crawl data from vnexpress, zing news and vietnamese and use Multi-layer perceptron model to classify all. You can find all data in `./data`
 
 https://developers.google.com/machine-learning/guides/text-classification/step-2-5
@@ -19,9 +17,7 @@ Download dataset: https://drive.google.com/file/d/1gY2fPjGElSXVN83syW5bDmxWS7sdu
 
 After finished, The model will be stored in `./model/MyModel.h5`
 
-`./model/selector.pickle` and `./model/vectorizer.pickle` are used to vectorize the input data
-
-Pre-trained model: https://drive.google.com/file/d/1rObNGFWEbkaD2sE9NBsf8RUyTLLElNBq/view?usp=sharing
+`./model/vectorizer.pickle` to use to vectorize the input data
 
 
 # Use Model to predict
