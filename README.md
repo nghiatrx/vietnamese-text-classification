@@ -4,6 +4,9 @@ Crawl data from vnexpress, zing news and vietnamese and use Multi-layer perceptr
 
 https://developers.google.com/machine-learning/guides/text-classification/step-2-5
 
+
+Demo: http://45.77.248.72:8080
+
 # Installation
 python3 is required
 
@@ -42,3 +45,4 @@ It means 99.9% that it is in class 1
     yarn
 
     yarn dev
+    

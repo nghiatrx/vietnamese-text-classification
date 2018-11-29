@@ -30,9 +30,9 @@ def main():
             'Du-lich (travel)',
             'Giao-duc (education)',
             'Kinh-doanh (business)',
-            'Phap-luat (law)'
-            'Phim (Movie)',
-            'Thoi-su (News)',
-            'Thoi-trang (Fashion)'
+            'Phap-luat (law)',
+            'Phim (movie)',
+            'Thoi-su (news)',
+            'Thoi-trang (fashion)'
         ]
     })
